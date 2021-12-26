@@ -4,4 +4,4 @@ A small application with two different programming scenarios (reactive programmi
 The application responseTime measured by JMeter.
 The application throughput measured on mongoDB console and represents the number of inserts per second.
 
-<img src="JMS.png" style= "max-width: 100%">
+<img src="JMS.png" />
